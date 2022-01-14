@@ -14,11 +14,9 @@ from turtle import *
 import time
 import random
 
-
 ##################################################################################################################
 
 '''Définition des fonctions:'''
-
 
 #~~~~~~~~~~#  1) Fonction(s) en rapport avec les coordonnées:  #~~~~~~~~~~#
 
