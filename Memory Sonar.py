@@ -1041,7 +1041,6 @@ press()
 #Décor début:
 decor_debut()
 
-#test
 #onscreenclick(getpos)
 
 #Empêcher le programme de se fermer:
