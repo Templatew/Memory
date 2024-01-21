@@ -18,6 +18,14 @@ Before running the game, ensure you have Python installed on your machine. You c
    cd Memory-Game
    ```
 
+3. **Install Turtle:**
+   - Open your command prompt (cmd) or terminal.
+   - Run the following command:
+     ```
+     pip install pygame
+     ```
+   - This will download and install Turtle and its dependencies.
+
 ## Running the Game
 
 To play the game, run the following command in the project directory:
