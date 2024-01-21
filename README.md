@@ -24,3 +24,5 @@ To play the game, run the following command in the project directory:
 ```
 python Memory_Sonar.py
 ```
+## Gallery
+![image](https://github.com/Templatew/Memory-Game/assets/96289463/26b7e12e-e35b-49d9-833f-f99bd8f4b261)
