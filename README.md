@@ -22,7 +22,7 @@ Before running the game, ensure you have Python installed on your machine. You c
    - Open your command prompt (cmd) or terminal.
    - Run the following command:
      ```
-     pip install pygame
+     pip install turtle
      ```
    - This will download and install Turtle and its dependencies.
 
